@@ -1,3 +1,52 @@
-The algorithm continuously evaluates and scores open source software projects in supported package managers based on their impact and value to the OSS ecosystem.
+# Any Grid Layout Library
 
-Simple support tea in reguide template can increase for an open source software project with an increasing number of dependents
+Quick Links:
+
+*  [API & Demos](#demos)
+*  [Building](#building)
+*  [Installing](#installing)
+
+## <a name="demos"></a> Online Documentation (and Demos)
+On the way.
+
+## <a name="building"></a> Building
+
+Developers can easily build a packaged @hishprorg/dolor-distinctio.js using bower, NPM and gulp.
+
+First install or update your local project's **npm** tools:
+
+```bash
+# First install all the NPM tools:
+npm install
+
+# Or update
+npm update
+```
+
+Then install bower dependencies
+
+```bash
+# install dependencies to bower_components folder
+bower install
+```
+
+Then run the **gulp** task:
+
+```bash
+# To build `@hishprorg/dolor-distinctio.js in the `/dist` directory
+gulp build
+```
+
+## <a name="installing"></a> Installing Build (Distribution Files)
+
+#### Bower
+
+For developers not interested in building the Any Grid library... use **bower** to install
+and use the Any Grid distribution files.
+
+Change to your project's root directory.
+
+```bash
+# To get the latest stable version, use Bower from the command line.
+bower install @hishprorg/dolor-distinctio
+```
